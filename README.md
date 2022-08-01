@@ -7,4 +7,4 @@ $ git add .
 OR if you want to add a specific file
 
 $ git add README.md 
-# To add a specific file
+## To add a specific file    //added # for commit change
